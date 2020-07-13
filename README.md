@@ -11,7 +11,7 @@
 
 - 💼 I’m currently working @Codeminer42 🔴
 - 📚 I’m currently learning Rails, React and Docker 🐋.
-- 🔑 Technologies: Python 🐍, Ruby 💎
+- 🔑 Technologies: Python 🐍, Django 💚, Ruby 💎, Rails 🛤️
 - ⚡ Fun fact: I love to play 🎱 and have a good conversation followed by 🍻.
 - 💡 Learn to walk before you run
 - 💻 [My portfolio website](https://luchiago.github.io)
