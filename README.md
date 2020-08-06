@@ -6,6 +6,7 @@
 <a href="https://www.instagram.com/luchiago" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/luchiago?si=PoVPtvEkQ9qGTFSj_uDB1w" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 [![Gmail Badge](https://img.shields.io/badge/-lucashiago63@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucashiago63@gmail.com)](mailto:lucashiago63@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-luchiago-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/luchiago)
 
 </div>
 
