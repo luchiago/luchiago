@@ -6,7 +6,7 @@
 <a href="https://github.com/luchiago/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luchiago&show_icons=true&count_private=true&theme=dark" />
 </a>
-</br>
+</br></br>
 
 <a href="https://www.linkedin.com/in/luchiago" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://dev.to/luchiago" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
