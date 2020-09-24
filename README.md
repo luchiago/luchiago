@@ -18,7 +18,7 @@
 
 </div>
 
-- 💼 I’m currently working @Codeminer42 🔴
+- 💼 I’m currently working @Miio 🔵⚡🚗
 - 📚 I’m currently learning Rails, React and Docker 🐋.
 - 🔑 Technologies: Python 🐍, Django 💚, Ruby 💎, Rails 🛤️
 - ⚡ Fun fact: I love to play 🎱 and have a good conversation followed by 🍻.
