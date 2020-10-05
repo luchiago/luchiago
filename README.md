@@ -24,3 +24,5 @@
 - ⚡ Fun fact: I love to play 🎱 and have a good conversation followed by 🍻.
 - 💡 Learn to walk before you run
 - 💻 [My portfolio website](https://luchiago.github.io)
+
+![](https://komarev.com/ghpvc/?username=luchiago&color=blue&style=flat)
