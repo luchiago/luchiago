@@ -18,7 +18,7 @@
 
 </div>
 
-- 💼 I’m currently working @Miio 🔵⚡🚗
+- 💼 I’m currently working @Oowlish
 - 📚 I’m currently learning Rails, Docker 🐋.
 - 🔑 Technologies: Python 🐍, Django 💚, Ruby 💎, Rails 🛤️
 - ⚡ Fun fact: I love to play 🎱 and have a good conversation followed by 🍻.
