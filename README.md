@@ -19,10 +19,8 @@
 </div>
 
 - 💼 I’m currently working @Oowlish
-- 📚 I’m currently learning Rails, Docker 🐋.
-- 🔑 Technologies: Python 🐍, Django 💚, Ruby 💎, Rails 🛤️
+- 🔑 Technologies: Python 🐍, Django 💚, Ruby 💎, Rails 🛤️, Docker 🐋.
 - ⚡ Fun fact: I love to play 🎱 and have a good conversation followed by 🍻.
 - 💡 Learn to walk before you run
-- 💻 [My portfolio website](https://luchiago.github.io)
 
 ![](https://komarev.com/ghpvc/?username=luchiago&color=blue&style=flat)
