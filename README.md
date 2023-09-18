@@ -10,7 +10,7 @@
 
 </div>
 
-- 💼 I’m currently working @Oowlish
+- 💼 I’m currently working @Vinta
 - 🔑 Technologies: Python 🐍, Django 💚, Ruby 💎, Rails 🛤️, Docker 🐋.
 - ⚡ Fun fact: I love to play 🎱 and have a good conversation followed by 🍻.
 - 💡 Learn to walk before you run
